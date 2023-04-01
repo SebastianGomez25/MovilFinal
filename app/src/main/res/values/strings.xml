@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CamellApp3</string>
+
+
+    <string name="titulo0">Pagina de Inicio</string>
+    <string name="inicios">INICIAR SESION</string>
+    <string name="registro">REGISTRATE </string>
+    <string name="email">Ingrese su usuario</string>
+    <string name="password">Ingrese su contraseña</string>
+    <string name="restablecerc">¿Olvido su contraseña? Click aqui</string>
+    <string name="correo">Ingrese su correo electronico</string>
+    <string name="nombres">Ingrese su nombre y apellido</string>
+    <string name="siguiente">SIGUIENTE</string>
+    <string name="pais">Pais de origen</string>
+    <string name="direccin">Direccion</string>
+    <string name="tlf">Telefono-Celular</string>
+    <string name="tipdoc">Tipo de Documento</string>
+    <string name="nrodoc">Numero de Documento</string>
+    <string name="listo">!Listo!</string>
+
+
+
+</resources>
